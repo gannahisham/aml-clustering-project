@@ -1,0 +1,10 @@
+wholesale_scaled.csv
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# system files
+.DS_Store
